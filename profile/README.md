@@ -7,7 +7,7 @@
   </p>
 </h1>
 <p align="center">
-  Deployments to the stars
+  All systems go!
   <br />
   <strong><a href="https://www.astrodrome.io">https://www.astrodrome.io</a></strong>
 </p>
